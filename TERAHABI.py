@@ -165,4 +165,5 @@ async def 고정해제(ctx):
     await ctx.send("📌 고정 메시지가 해제되었습니다.", delete_after=5)
 
 
-bot.run("MTM3NDk0NzE2MTYxMDkxMTc4NA.GoM3HZ.IdWNu3vKVY_9sCKW1cbOeEFHRCpfKld-Z3wuKM")
+bot.run()
+
